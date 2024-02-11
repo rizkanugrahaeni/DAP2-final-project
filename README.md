@@ -1,4 +1,8 @@
-# DAP2-final-project
+# Data Skills 2 - R
+## Winter Quarter 2024
+
+## Final Project: Reproducible Research
+## Due: March 1
 Template for Final Project in PPHA 30536, Data and Programming in R 2. Current version: winter 2024.
 
 Fork this assignment and use it to submit the code and writeup portion of the project. See "Final Project Instructions.pdf" for full instructions. 
