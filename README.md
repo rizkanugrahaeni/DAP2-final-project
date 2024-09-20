@@ -1,9 +1,9 @@
 # Data Skills 2 - R
-## Winter Quarter 2024
+## Fall Quarter 2024
 
 ## Final Project: Reproducible Research
-## Due: March 1
-Template for Final Project in PPHA 30536, Data and Programming in R 2. Current version: winter 2024.
+## Due: December 7
+Template for Final Project in PPHA 30536, Data and Programming in R 2. Current version: fall 2024.
 
 Fork this assignment and use it to submit the code and writeup portion of the project. See "Final Project Instructions.pdf" for full instructions. 
 
@@ -31,7 +31,6 @@ The project and files should be structured and documented so that someone could 
 _**Writeup (15%)**_
 
 You will then spend no more than 2-3 pages writing up your project. You should describe your research question, then discuss the approach you took and the coding involved, including discussing any weaknesses or difficulties encountered. Finish with a brief discussion of results, and how this could be fleshed out in future research. The primary purpose of this writeup is to inform me of what I am reading before I look at your code.
-The top of your writeup should include the names of all group members and Github user IDs.
 
 
 
