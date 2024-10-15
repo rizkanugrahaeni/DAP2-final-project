@@ -26,7 +26,7 @@ Then you will fit a model to your data and report basic results. As this is not 
 
 **5.	Reproducibility (10%)**
 
-The project and files should be structured and documented so that someone could fork your repository and reproduce your results. This means that your README should document the order in which codes should be run, and what needs to be edited (e.g., where the user should set their path) by the user. If the dataset is retrieved automatically, then the final results do not have to reproduce exactly but the code should run smoothly even if the underlying data changes.  
+The project and files should be structured and documented so that someone could fork your repository and reproduce your results. This means that your README should document the order in which codes should be run, and what needs to be edited (e.g., where the user should set their path) by the user. If the dataset is retrieved automatically, then the final results do not have to reproduce exactly but the code should run smoothly even if the underlying data changes. Any plots or other output produced by your code should be included in your repository as well. 
 
 _**Writeup (15%)**_
 
