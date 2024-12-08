@@ -1,0 +1,564 @@
+country,sector,mitigation_finance,adaptation_finance,renewable_energy,co2_emissions
+Papua New Guinea,Transport,0,0,54.5,1142.0896853403144
+Papua New Guinea,Transport,0,0,0,1.1698
+Afghanistan,"Agriculture, natural resources and rural development",0,18.13,20,1142.0896853403144
+Afghanistan,"Agriculture, natural resources and rural development",0,18.13,0,1.5293
+Kazakhstan,Transport,0,11.6,2,1142.0896853403144
+Kazakhstan,Transport,0,11.6,0,108.9644
+Pakistan,Transport,230,5,41.6,1142.0896853403144
+Pakistan,Transport,230,5,0,58.2926
+Pakistan,Transport,69,2.8,41.6,1142.0896853403144
+Pakistan,Transport,69,2.8,0,58.2926
+Pakistan,Transport,27,0,41.6,1142.0896853403144
+Pakistan,Transport,27,0,0,58.2926
+Pakistan,Transport,10.2,0,41.6,1142.0896853403144
+Pakistan,Transport,10.2,0,0,58.2926
+Pakistan,Transport,69,2.8,41.6,1142.0896853403144
+Pakistan,Transport,69,2.8,0,58.2926
+Pakistan,Transport,4.8,7,41.6,1142.0896853403144
+Pakistan,Transport,4.8,7,0,58.2926
+Pakistan,Education,0.35,0,41.6,1142.0896853403144
+Pakistan,Education,0.35,0,0,58.2926
+Uzbekistan,Energy,59.8,0.2,1,1142.0896853403144
+Uzbekistan,Energy,59.8,0.2,0,40.3284
+Mongolia,Water and other urban infrastructure and services,3,0,3,1142.0896853403144
+Mongolia,Water and other urban infrastructure and services,3,0,0,13.3471
+China,Transport,119.68,0.315,15.2,1142.0896853403144
+China,Transport,119.68,0.315,0,5822.8452
+China,"Agriculture, natural resources and rural development",24.02577861,38.84167926,15.2,1142.0896853403144
+China,"Agriculture, natural resources and rural development",24.02577861,38.84167926,0,5822.8452
+China,Water and other urban infrastructure and services,0.64,37.64,15.2,1142.0896853403144
+China,Water and other urban infrastructure and services,0.64,37.64,0,5822.8452
+China,Water and other urban infrastructure and services,37.25,30.11,15.2,1142.0896853403144
+China,Water and other urban infrastructure and services,37.25,30.11,0,5822.8452
+China,"Agriculture, natural resources and rural development",19.58,2.5,15.2,1142.0896853403144
+China,"Agriculture, natural resources and rural development",19.58,2.5,0,5822.8452
+China,Energy,54.8,0,15.2,1142.0896853403144
+China,Energy,54.8,0,0,5822.8452
+China,"Agriculture, natural resources and rural development",6.67,8.84,15.2,1142.0896853403144
+China,"Agriculture, natural resources and rural development",6.67,8.84,0,5822.8452
+China,"Agriculture, natural resources and rural development",8.5,6.48,15.2,1142.0896853403144
+China,"Agriculture, natural resources and rural development",8.5,6.48,0,5822.8452
+Kiribati,Water and other urban infrastructure and services,1.61,1.16,42.2,1142.0896853403144
+Kiribati,Water and other urban infrastructure and services,1.61,1.16,0,0.0179
+Kiribati,Water and other urban infrastructure and services,1.79,26.84,42.2,1142.0896853403144
+Kiribati,Water and other urban infrastructure and services,1.79,26.84,0,0.0179
+Bangladesh,Transport,0,26.1,25,1142.0896853403144
+Bangladesh,Transport,0,26.1,0,48.3752
+Bangladesh,Energy,13.28,0,25,1142.0896853403144
+Bangladesh,Energy,13.28,0,0,48.3752
+Bangladesh,Energy,4.44,0,25,1142.0896853403144
+Bangladesh,Energy,4.44,0,0,48.3752
+Afghanistan,"Agriculture, natural resources and rural development",0,6.4,20,1142.0896853403144
+Afghanistan,"Agriculture, natural resources and rural development",0,6.4,0,1.5293
+Afghanistan,Energy,22.7,5,20,1142.0896853403144
+Afghanistan,Energy,22.7,5,0,1.5293
+Afghanistan,Energy,1.75,0,20,1142.0896853403144
+Afghanistan,Energy,1.75,0,0,1.5293
+Afghanistan,Energy,7.58,20.6,20,1142.0896853403144
+Afghanistan,Energy,7.58,20.6,0,1.5293
+Afghanistan,Health,1,0,20,1142.0896853403144
+Afghanistan,Health,1,0,0,1.5293
+Georgia,Water and other urban infrastructure and services,0,0,25.2,1142.0896853403144
+Georgia,Water and other urban infrastructure and services,0,0,0,1.3438
+Georgia,Water and other urban infrastructure and services,6.5,9.9,25.2,1142.0896853403144
+Georgia,Water and other urban infrastructure and services,6.5,9.9,0,1.3438
+Pakistan,Health,10,1,41.6,1142.0896853403144
+Pakistan,Health,10,1,0,58.2926
+Pakistan,Health,0,0,41.6,1142.0896853403144
+Pakistan,Health,0,0,0,58.2926
+Tajikistan,"Agriculture, natural resources and rural development",0,3.8,34.9,1142.0896853403144
+Tajikistan,"Agriculture, natural resources and rural development",0,3.8,0,2.2714
+Tajikistan,Energy,20,0,34.9,1142.0896853403144
+Tajikistan,Energy,20,0,0,2.2714
+Tajikistan,Energy,0,0,34.9,1142.0896853403144
+Tajikistan,Energy,0,0,0,2.2714
+Tajikistan,Transport,0,5.6,34.9,1142.0896853403144
+Tajikistan,Transport,0,5.6,0,2.2714
+Uzbekistan,Energy,116.67,8.33,1,1142.0896853403144
+Uzbekistan,Energy,116.67,8.33,0,40.3284
+Uzbekistan,Transport,0,0.4,1,1142.0896853403144
+Uzbekistan,Transport,0,0.4,0,40.3284
+Uzbekistan,Transport,0,17,1,1142.0896853403144
+Uzbekistan,Transport,0,17,0,40.3284
+Uzbekistan,Water and other urban infrastructure and services,2.22,0,1,1142.0896853403144
+Uzbekistan,Water and other urban infrastructure and services,2.22,0,0,40.3284
+China,"Agriculture, natural resources and rural development",12.891305,9.720818,15.2,1142.0896853403144
+China,"Agriculture, natural resources and rural development",12.891305,9.720818,0,5822.8452
+China,Finance,63.52288,0,15.2,1142.0896853403144
+China,Finance,63.52288,0,0,5822.8452
+China,Energy,9.51,2.6,15.2,1142.0896853403144
+China,Energy,9.51,2.6,0,5822.8452
+China,Energy,7.07,3.23,15.2,1142.0896853403144
+China,Energy,7.07,3.23,0,5822.8452
+China,Energy,38.54,6.21,15.2,1142.0896853403144
+China,Energy,38.54,6.21,0,5822.8452
+China,Energy,28.75,0,15.2,1142.0896853403144
+China,Energy,28.75,0,0,5822.8452
+China,Energy,0,0,15.2,1142.0896853403144
+China,Energy,0,0,0,5822.8452
+China,Industry and trade,8.96,21.6,15.2,1142.0896853403144
+China,Industry and trade,8.96,21.6,0,5822.8452
+China,Education,1.85,2.56,15.2,1142.0896853403144
+China,Education,1.85,2.56,0,5822.8452
+China,Education,2.15,1.22,15.2,1142.0896853403144
+China,Education,2.15,1.22,0,5822.8452
+China,Education,1.22,0.69,15.2,1142.0896853403144
+China,Education,1.22,0.69,0,5822.8452
+China,Education,0.08,0.16,15.2,1142.0896853403144
+China,Education,0.08,0.16,0,5822.8452
+Mongolia,"Agriculture, natural resources and rural development",0,0.1,3,1142.0896853403144
+Mongolia,"Agriculture, natural resources and rural development",0,0.1,0,13.3471
+Mongolia,"Agriculture, natural resources and rural development",4.49,14.04,3,1142.0896853403144
+Mongolia,"Agriculture, natural resources and rural development",4.49,14.04,0,13.3471
+Mongolia,"Agriculture, natural resources and rural development",2.61,8.16,3,1142.0896853403144
+Mongolia,"Agriculture, natural resources and rural development",2.61,8.16,0,13.3471
+Mongolia,"Agriculture, natural resources and rural development",0,0,3,1142.0896853403144
+Mongolia,"Agriculture, natural resources and rural development",0,0,0,13.3471
+Mongolia,Energy,99.9,0.1,3,1142.0896853403144
+Mongolia,Energy,99.9,0.1,0,13.3471
+Mongolia,Energy,3,0,3,1142.0896853403144
+Mongolia,Energy,3,0,0,13.3471
+Mongolia,Water and other urban infrastructure and services,0,1.97,3,1142.0896853403144
+Mongolia,Water and other urban infrastructure and services,0,1.97,0,13.3471
+Mongolia,Water and other urban infrastructure and services,0.87,0.87,3,1142.0896853403144
+Mongolia,Water and other urban infrastructure and services,0.87,0.87,0,13.3471
+Mongolia,Industry and trade,0.077092,0.385459,3,1142.0896853403144
+Mongolia,Industry and trade,0.077092,0.385459,0,13.3471
+Mongolia,Industry and trade,0.575634,0.724125,3,1142.0896853403144
+Mongolia,Industry and trade,0.575634,0.724125,0,13.3471
+Kiribati,Transport,0,4.35,42.2,1142.0896853403144
+Kiribati,Transport,0,4.35,0,0.0179
+Kiribati,Energy,5.61,0.22,42.2,1142.0896853403144
+Kiribati,Energy,5.61,0.22,0,0.0179
+Kiribati,Energy,3.56,0.14,42.2,1142.0896853403144
+Kiribati,Energy,3.56,0.14,0,0.0179
+Kiribati,Energy,0.96,0.04,42.2,1142.0896853403144
+Kiribati,Energy,0.96,0.04,0,0.0179
+Samoa,Transport,0,0.371715,36,1142.0896853403144
+Samoa,Transport,0,0.371715,0,0.086
+Solomon Islands,Public sector management,0,1.5,49.1,1142.0896853403144
+Solomon Islands,Public sector management,0,1.5,0,0.0768
+Samoa,Public sector management,0,3,36,1142.0896853403144
+Samoa,Public sector management,0,3,0,0.086
+Tonga,Public sector management,0,3,1.8,1142.0896853403144
+Tonga,Public sector management,0,3,0,0.0404
+Kiribati,Public sector management,0,2,42.2,1142.0896853403144
+Kiribati,Public sector management,0,2,0,0.0179
+Tuvalu,Public sector management,0,1.5,5,1142.0896853403144
+Tuvalu,Public sector management,0,1.5,0,1142.0896853403144
+Bangladesh,Energy,2.7,0,25,1142.0896853403144
+Bangladesh,Energy,2.7,0,0,48.3752
+Bangladesh,Energy,5.1,0,25,1142.0896853403144
+Bangladesh,Energy,5.1,0,0,48.3752
+Bangladesh,"Agriculture, natural resources and rural development",0,9.9,25,1142.0896853403144
+Bangladesh,"Agriculture, natural resources and rural development",0,9.9,0,48.3752
+Bangladesh,Water and other urban infrastructure and services,2.1,8.4,25,1142.0896853403144
+Bangladesh,Water and other urban infrastructure and services,2.1,8.4,0,48.3752
+Bangladesh,Water and other urban infrastructure and services,9.4,7,25,1142.0896853403144
+Bangladesh,Water and other urban infrastructure and services,9.4,7,0,48.3752
+Bhutan,Water and other urban infrastructure and services,0,0,81.8,1142.0896853403144
+Bhutan,Water and other urban infrastructure and services,0,0,0,0.2461
+Bhutan,Water and other urban infrastructure and services,0,0.05,81.8,1142.0896853403144
+Bhutan,Water and other urban infrastructure and services,0,0.05,0,0.2461
+Bhutan,Energy,2.97,0,81.8,1142.0896853403144
+Bhutan,Energy,2.97,0,0,0.2461
+Bhutan,Energy,0.03,0,81.8,1142.0896853403144
+Bhutan,Energy,0.03,0,0,0.2461
+India,Energy,229.3,1.7,34.9,1142.0896853403144
+India,Energy,229.3,1.7,0,1165.867
+India,Energy,0,0,34.9,1142.0896853403144
+India,Energy,0,0,0,1165.867
+India,Energy,87,2.4,34.9,1142.0896853403144
+India,Energy,87,2.4,0,1165.867
+India,Energy,141.4,3.23,34.9,1142.0896853403144
+India,Energy,141.4,3.23,0,1165.867
+India,Energy,22.5,3.8,34.9,1142.0896853403144
+India,Energy,22.5,3.8,0,1165.867
+India,Energy,90.6,27.8,34.9,1142.0896853403144
+India,Energy,90.6,27.8,0,1165.867
+India,Energy,2,0,34.9,1142.0896853403144
+India,Energy,2,0,0,1165.867
+India,Transport,0,12.76,34.9,1142.0896853403144
+India,Transport,0,12.76,0,1165.867
+India,Transport,498.54,1.46,34.9,1142.0896853403144
+India,Transport,498.54,1.46,0,1165.867
+India,Transport,0,0,34.9,1142.0896853403144
+India,Transport,0,0,0,1165.867
+India,Water and other urban infrastructure and services,7.5,34.1,34.9,1142.0896853403144
+India,Water and other urban infrastructure and services,7.5,34.1,0,1165.867
+India,Water and other urban infrastructure and services,10.1,23.6,34.9,1142.0896853403144
+India,Water and other urban infrastructure and services,10.1,23.6,0,1165.867
+Maldives,Energy,7.74,0,1.4,1142.0896853403144
+Maldives,Energy,7.74,0,0,0.5276
+Maldives,Energy,0.08,2.65,1.4,1142.0896853403144
+Maldives,Energy,0.08,2.65,0,0.5276
+Maldives,Water and other urban infrastructure and services,30.25,3.555,1.4,1142.0896853403144
+Maldives,Water and other urban infrastructure and services,30.25,3.555,0,0.5276
+Maldives,Water and other urban infrastructure and services,3.6,0,1.4,1142.0896853403144
+Maldives,Water and other urban infrastructure and services,3.6,0,0,0.5276
+Maldives,Water and other urban infrastructure and services,21.64,3.555,1.4,1142.0896853403144
+Maldives,Water and other urban infrastructure and services,21.64,3.555,0,0.5276
+Maldives,Water and other urban infrastructure and services,4.4,0,1.4,1142.0896853403144
+Maldives,Water and other urban infrastructure and services,4.4,0,0,0.5276
+Maldives,Water and other urban infrastructure and services,40,0,1.4,1142.0896853403144
+Maldives,Water and other urban infrastructure and services,40,0,0,0.5276
+Maldives,Water and other urban infrastructure and services,9.5,0,1.4,1142.0896853403144
+Maldives,Water and other urban infrastructure and services,9.5,0,0,0.5276
+Nepal,Energy,118.9,1,73.7,1142.0896853403144
+Nepal,Energy,118.9,1,0,0
+Nepal,Energy,18.2,0,73.7,1142.0896853403144
+Nepal,Energy,18.2,0,0,0
+Nepal,Energy,88.9,1.8,73.7,1142.0896853403144
+Nepal,Energy,88.9,1.8,0,0
+Nepal,"Agriculture, natural resources and rural development",0,4.9,73.7,1142.0896853403144
+Nepal,"Agriculture, natural resources and rural development",0,4.9,0,0
+Nepal,"Agriculture, natural resources and rural development",0,2.1,73.7,1142.0896853403144
+Nepal,"Agriculture, natural resources and rural development",0,2.1,0,0
+Nepal,Transport,0.94,0.26,73.7,1142.0896853403144
+Nepal,Transport,0.94,0.26,0,0
+Sri Lanka,Finance,0,5,48.8,1142.0896853403144
+Sri Lanka,Finance,0,5,0,9.203
+Sri Lanka,Finance,0,1.25,48.8,1142.0896853403144
+Sri Lanka,Finance,0,1.25,0,9.203
+Cambodia,Energy,6.04,0,52.4,1142.0896853403144
+Cambodia,Energy,6.04,0,0,4.5678
+Cambodia,Energy,4.7,0,52.4,1142.0896853403144
+Cambodia,Energy,4.7,0,0,4.5678
+Cambodia,Energy,2,0,52.4,1142.0896853403144
+Cambodia,Energy,2,0,0,4.5678
+Cambodia,"Agriculture, natural resources and rural development",8.93,1.5,52.4,1142.0896853403144
+Cambodia,"Agriculture, natural resources and rural development",8.93,1.5,0,4.5678
+Cambodia,"Agriculture, natural resources and rural development",0,0.42,52.4,1142.0896853403144
+Cambodia,"Agriculture, natural resources and rural development",0,0.42,0,4.5678
+Cambodia,"Agriculture, natural resources and rural development",0,0,52.4,1142.0896853403144
+Cambodia,"Agriculture, natural resources and rural development",0,0,0,4.5678
+Cambodia,"Agriculture, natural resources and rural development",0,0,52.4,1142.0896853403144
+Cambodia,"Agriculture, natural resources and rural development",0,0,0,4.5678
+Cambodia,Public sector management,0.12,0.24,52.4,1142.0896853403144
+Cambodia,Public sector management,0.12,0.24,0,4.5678
+Cambodia,Public sector management,0.17,0.17,52.4,1142.0896853403144
+Cambodia,Public sector management,0.17,0.17,0,4.5678
+Indonesia,Energy,50,0,20.2,1142.0896853403144
+Indonesia,Energy,50,0,0,236.6338
+Indonesia,Energy,3,0,20.2,1142.0896853403144
+Indonesia,Energy,3,0,0,236.6338
+Indonesia,Energy,0,0,20.2,1142.0896853403144
+Indonesia,Energy,0,0,0,236.6338
+Indonesia,Energy,290.01,9.99,20.2,1142.0896853403144
+Indonesia,Energy,290.01,9.99,0,236.6338
+Indonesia,Energy,35,0,20.2,1142.0896853403144
+Indonesia,Energy,35,0,0,236.6338
+Indonesia,Finance,0,36.25,20.2,1142.0896853403144
+Indonesia,Finance,0,36.25,0,236.6338
+Indonesia,Public sector management,0,22.785,20.2,1142.0896853403144
+Indonesia,Public sector management,0,22.785,0,236.6338
+Indonesia,Public sector management,0,22.785,20.2,1142.0896853403144
+Indonesia,Public sector management,0,22.785,0,236.6338
+Myanmar,Water and other urban infrastructure and services,4,0.5,62.9,1142.0896853403144
+Myanmar,Water and other urban infrastructure and services,4,0.5,0,8.2233
+Myanmar,Energy,78,8.56,62.9,1142.0896853403144
+Myanmar,Energy,78,8.56,0,8.2233
+Myanmar,Transport,0,10.7,62.9,1142.0896853403144
+Myanmar,Transport,0,10.7,0,8.2233
+Philippines,Water and other urban infrastructure and services,0,4,28,1142.0896853403144
+Philippines,Water and other urban infrastructure and services,0,4,0,76.3604
+Philippines,Finance,20,36.09,28,1142.0896853403144
+Philippines,Finance,20,36.09,0,76.3604
+Philippines,Finance,0,28.39,28,1142.0896853403144
+Philippines,Finance,0,28.39,0,76.3604
+Philippines,Finance,0,28.39,28,1142.0896853403144
+Philippines,Finance,0,28.39,0,76.3604
+Philippines,"Agriculture, natural resources and rural development",12.31,40,28,1142.0896853403144
+Philippines,"Agriculture, natural resources and rural development",12.31,40,0,76.3604
+Philippines,Transport,123,0,28,1142.0896853403144
+Philippines,Transport,123,0,0,76.3604
+Philippines,Transport,15,0,28,1142.0896853403144
+Philippines,Transport,15,0,0,76.3604
+China,Finance,40,0,15.2,1142.0896853403144
+China,Finance,40,0,0,5822.8452
+China,Finance,40,0,15.2,1142.0896853403144
+China,Finance,40,0,0,5822.8452
+China,Finance,35.0160605,0,15.2,1142.0896853403144
+China,Finance,35.0160605,0,0,5822.8452
+China,Finance,35.0160605,0,15.2,1142.0896853403144
+China,Finance,35.0160605,0,0,5822.8452
+India,Energy,62.410397,0,34.9,1142.0896853403144
+India,Energy,62.410397,0,0,1165.867
+India,Energy,50.907704,0,34.9,1142.0896853403144
+India,Energy,50.907704,0,0,1165.867
+China,Water and other urban infrastructure and services,0,21.089631,15.2,1142.0896853403144
+China,Water and other urban infrastructure and services,0,21.089631,0,5822.8452
+India,Energy,7.5,0,34.9,1142.0896853403144
+India,Energy,7.5,0,0,1165.867
+India,Energy,7.5,0,34.9,1142.0896853403144
+India,Energy,7.5,0,0,1165.867
+Uzbekistan,Energy,10,0,1,1142.0896853403144
+Uzbekistan,Energy,10,0,0,40.3284
+Uzbekistan,Energy,8,0,1,1142.0896853403144
+Uzbekistan,Energy,8,0,0,40.3284
+India,Energy,20.319697,0,34.9,1142.0896853403144
+India,Energy,20.319697,0,0,1165.867
+India,Transport,0,0.26048,34.9,1142.0896853403144
+India,Transport,0,0.26048,0,1165.867
+Bangladesh,"Agriculture, natural resources and rural development",0,0.15,25,1142.0896853403144
+Bangladesh,"Agriculture, natural resources and rural development",0,0.15,0,48.3752
+Bangladesh,"Agriculture, natural resources and rural development",0,0.225,25,1142.0896853403144
+Bangladesh,"Agriculture, natural resources and rural development",0,0.225,0,48.3752
+Nepal,Energy,0,0,73.7,1142.0896853403144
+Nepal,Energy,0,0,0,0
+Maldives,Water and other urban infrastructure and services,0,0,1.4,1142.0896853403144
+Maldives,Water and other urban infrastructure and services,0,0,0,0.5276
+China,Energy,1,0,15.2,1142.0896853403144
+China,Energy,1,0,0,5822.8452
+Kazakhstan,Energy,0.5,0,2,1142.0896853403144
+Kazakhstan,Energy,0.5,0,0,108.9644
+Kazakhstan,Energy,1,0,2,1142.0896853403144
+Kazakhstan,Energy,1,0,0,108.9644
+Nepal,"Agriculture, natural resources and rural development",0,0,73.7,1142.0896853403144
+Nepal,"Agriculture, natural resources and rural development",0,0,0,0
+Nepal,"Agriculture, natural resources and rural development",0,0,73.7,1142.0896853403144
+Nepal,"Agriculture, natural resources and rural development",0,0,0,0
+Georgia,Water and other urban infrastructure and services,0,0,25.2,1142.0896853403144
+Georgia,Water and other urban infrastructure and services,0,0,0,1.3438
+Bhutan,Energy,0,0.5,81.8,1142.0896853403144
+Bhutan,Energy,0,0.5,0,0.2461
+Bhutan,Energy,0,0.25,81.8,1142.0896853403144
+Bhutan,Energy,0,0.25,0,0.2461
+Maldives,Energy,0.2,0.1,1.4,1142.0896853403144
+Maldives,Energy,0.2,0.1,0,0.5276
+Sri Lanka,Finance,0,0,48.8,1142.0896853403144
+Sri Lanka,Finance,0,0,0,9.203
+China,"Agriculture, natural resources and rural development",0,0.15,15.2,1142.0896853403144
+China,"Agriculture, natural resources and rural development",0,0.15,0,5822.8452
+India,Energy,0,0,34.9,1142.0896853403144
+India,Energy,0,0,0,1165.867
+India,Energy,0,0,34.9,1142.0896853403144
+India,Energy,0,0,0,1165.867
+Uzbekistan,Energy,0.35,0,1,1142.0896853403144
+Uzbekistan,Energy,0.35,0,0,40.3284
+Uzbekistan,Energy,1,0,1,1142.0896853403144
+Uzbekistan,Energy,1,0,0,40.3284
+Tajikistan,Energy,0,0,34.9,1142.0896853403144
+Tajikistan,Energy,0,0,0,2.2714
+Georgia,"Agriculture, natural resources and rural development",0,0.1,25.2,1142.0896853403144
+Georgia,"Agriculture, natural resources and rural development",0,0.1,0,1.3438
+China,"Agriculture, natural resources and rural development",0,0.258,15.2,1142.0896853403144
+China,"Agriculture, natural resources and rural development",0,0.258,0,5822.8452
+India,Transport,0,0,34.9,1142.0896853403144
+India,Transport,0,0,0,1165.867
+China,Energy,0.2,0.038,15.2,1142.0896853403144
+China,Energy,0.2,0.038,0,5822.8452
+China,Energy,0.7,0.05,15.2,1142.0896853403144
+China,Energy,0.7,0.05,0,5822.8452
+Pakistan,"Agriculture, natural resources and rural development",0,0,41.6,1142.0896853403144
+Pakistan,"Agriculture, natural resources and rural development",0,0,0,58.2926
+Pakistan,"Agriculture, natural resources and rural development",0,0.2,41.6,1142.0896853403144
+Pakistan,"Agriculture, natural resources and rural development",0,0.2,0,58.2926
+Pakistan,"Agriculture, natural resources and rural development",0,0.2,41.6,1142.0896853403144
+Pakistan,"Agriculture, natural resources and rural development",0,0.2,0,58.2926
+Lao PDR,"Agriculture, natural resources and rural development",0,0,51.5,1142.0896853403144
+Lao PDR,"Agriculture, natural resources and rural development",0,0,0,14.12
+Lao PDR,"Agriculture, natural resources and rural development",0,1,51.5,1142.0896853403144
+Lao PDR,"Agriculture, natural resources and rural development",0,1,0,14.12
+Sri Lanka,Energy,0.25,0,48.8,1142.0896853403144
+Sri Lanka,Energy,0.25,0,0,9.203
+China,Health,0.05,0.15,15.2,1142.0896853403144
+China,Health,0.05,0.15,0,5822.8452
+Mongolia,Energy,1,0.03,3,1142.0896853403144
+Mongolia,Energy,1,0.03,0,13.3471
+Afghanistan,Energy,0.225,0,20,1142.0896853403144
+Afghanistan,Energy,0.225,0,0,1.5293
+India,"Agriculture, natural resources and rural development",0,0.2,34.9,1142.0896853403144
+India,"Agriculture, natural resources and rural development",0,0.2,0,1165.867
+Bangladesh,Energy,0.4,0,25,1142.0896853403144
+Bangladesh,Energy,0.4,0,0,48.3752
+India,Energy,0,0,34.9,1142.0896853403144
+India,Energy,0,0,0,1165.867
+Indonesia,Transport,0.15,0,20.2,1142.0896853403144
+Indonesia,Transport,0.15,0,0,236.6338
+Uzbekistan,Transport,0.04,0.06,1,1142.0896853403144
+Uzbekistan,Transport,0.04,0.06,0,40.3284
+Uzbekistan,Transport,0,0,1,1142.0896853403144
+Uzbekistan,Transport,0,0,0,40.3284
+China,Public sector management,0,0.1,15.2,1142.0896853403144
+China,Public sector management,0,0.1,0,5822.8452
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
+NA,NA,0,0,0,1142.0896853403144
